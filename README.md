@@ -1,4 +1,4 @@
-# Black_Jack_Game_Console
+# Black Jack Console Game
 My first project for learning C#.
 
 Disclaimer: I wrote this game to learn coding in C#. You can't play this game with real money. Nonetheless should you, or a loved one might be dealing with a gambling problem, I highly recommend to look for help. You should play responsibly, and not risk money that you can't afford to lose. If you're under the age of 21, please don't download this. This is not a game for kids.
