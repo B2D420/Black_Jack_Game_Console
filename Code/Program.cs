@@ -9,7 +9,7 @@ namespace BlackJack
         {
             // version and author of the game for easy change
             string version = "version 1.0.0";
-            string author = "B2D420";
+            string author = "alpha-kappa";
             string versionshort = "v" + version.Substring(8);
 
             Console.Title = $"BlackJack {versionshort}";
